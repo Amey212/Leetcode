@@ -12,9 +12,11 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amey212/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Amey212/Leetcode/tree/master/0013-roman-to-integer) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Amey212/Leetcode/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/Amey212/Leetcode/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -45,4 +47,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amey212/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amey212/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Amey212/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
