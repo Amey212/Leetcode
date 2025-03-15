@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/Amey212/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amey212/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Amey212/Leetcode/tree/master/0013-roman-to-integer) |
+| [0424-longest-repeating-character-replacement](https://github.com/Amey212/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amey212/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Amey212/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amey212/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -54,4 +56,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amey212/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Amey212/Leetcode/tree/master/0013-roman-to-integer) |
+| [0424-longest-repeating-character-replacement](https://github.com/Amey212/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
