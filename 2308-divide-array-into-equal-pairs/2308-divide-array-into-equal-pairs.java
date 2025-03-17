@@ -1,21 +1,12 @@
-import java.util.HashMap;
-
 class Solution {
     public boolean divideArray(int[] nums) {
-        HashMap<Integer, Integer> freqMap = new HashMap<>();
-
-        // Count frequencies
-        for (int num : nums) {
-            freqMap.put(num, freqMap.getOrDefault(num, 0) + 1);
-        }
-
-        // Check if all frequencies are even
-        for (int count : freqMap.values()) {
-            if (count % 2 != 0) {
+        Arrays.sort(nums);
+        int n = nums.length;
+        for (int i = 0; i < n; i += 2) {
+            if (nums[i] != nums[i + 1]) {
                 return false;
             }
         }
-
         return true;
     }
 }
