@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Amey212/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amey212/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amey212/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0136-single-number](https://github.com/Amey212/Leetcode/tree/master/0136-single-number) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amey212/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amey212/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Amey212/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -71,6 +72,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Amey212/Leetcode/tree/master/0136-single-number) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amey212/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Counting
 |  |
