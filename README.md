@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/Amey212/Leetcode/tree/master/0013-roman-to-integer) |
 | [1013-fibonacci-number](https://github.com/Amey212/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amey212/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/Amey212/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/Amey212/Leetcode/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amey212/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Amey212/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/Amey212/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amey212/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Amey212/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
