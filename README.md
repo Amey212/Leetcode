@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/Amey212/Leetcode/tree/master/0136-single-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Amey212/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amey212/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1137-height-checker](https://github.com/Amey212/Leetcode/tree/master/1137-height-checker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amey212/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Amey212/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amey212/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Amey212/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1137-height-checker](https://github.com/Amey212/Leetcode/tree/master/1137-height-checker) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amey212/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Amey212/Leetcode/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
