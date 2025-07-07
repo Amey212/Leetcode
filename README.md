@@ -12,6 +12,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Amey212/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/Amey212/Leetcode/tree/master/1137-height-checker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amey212/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amey212/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Amey212/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/Amey212/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Amey212/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -117,6 +118,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amey212/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/Amey212/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -132,10 +134,12 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Amey212/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/Amey212/Leetcode/tree/master/1137-height-checker) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amey212/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Amey212/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amey212/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Bucket Sort
 |  |
 | ------- |
