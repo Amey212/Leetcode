@@ -54,6 +54,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Amey212/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Amey212/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Amey212/Leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amey212/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amey212/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0203-remove-linked-list-elements](https://github.com/Amey212/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Amey212/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Amey212/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
