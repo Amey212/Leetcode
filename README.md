@@ -88,6 +88,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amey212/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amey212/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amey212/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Amey212/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -173,6 +174,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amey212/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Amey212/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Amey212/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
