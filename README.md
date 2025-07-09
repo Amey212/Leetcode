@@ -19,6 +19,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Amey212/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amey212/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amey212/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Amey212/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/Amey212/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amey212/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Amey212/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Amey212/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -128,6 +130,7 @@
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amey212/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/Amey212/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Amey212/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Trie
 |  |
 | ------- |
