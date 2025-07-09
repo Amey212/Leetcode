@@ -109,6 +109,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Amey212/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Amey212/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Amey212/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3617-find-the-original-typed-string-i](https://github.com/Amey212/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Bit Manipulation
 |  |
 | ------- |
