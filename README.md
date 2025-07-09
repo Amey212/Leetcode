@@ -56,6 +56,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Amey212/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Amey212/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Amey212/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Amey212/Leetcode/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amey212/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Amey212/Leetcode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -89,6 +90,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amey212/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amey212/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amey212/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0234-palindrome-linked-list](https://github.com/Amey212/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Amey212/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
@@ -176,9 +178,14 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amey212/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Amey212/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Amey212/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Amey212/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Amey212/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Amey212/Leetcode/tree/master/2541-sum-of-number-and-its-reverse) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Amey212/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
