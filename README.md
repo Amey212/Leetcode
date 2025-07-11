@@ -19,6 +19,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Amey212/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amey212/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amey212/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/Amey212/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Amey212/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Amey212/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
@@ -38,6 +39,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Amey212/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amey212/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Amey212/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/Amey212/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Math
 |  |
 | ------- |
@@ -152,11 +154,13 @@
 | [1137-height-checker](https://github.com/Amey212/Leetcode/tree/master/1137-height-checker) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amey212/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Amey212/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2479-meeting-rooms-iii](https://github.com/Amey212/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Amey212/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amey212/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2479-meeting-rooms-iii](https://github.com/Amey212/Leetcode/tree/master/2479-meeting-rooms-iii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -171,6 +175,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2479-meeting-rooms-iii](https://github.com/Amey212/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Amey212/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting Sort
 |  |
