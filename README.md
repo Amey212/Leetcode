@@ -186,6 +186,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Amey212/Leetcode/tree/master/0155-min-stack) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Amey212/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Linked List
 |  |
@@ -204,6 +205,7 @@
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Amey212/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Amey212/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Amey212/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
