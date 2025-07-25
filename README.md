@@ -37,6 +37,7 @@
 | [0041-first-missing-positive](https://github.com/Amey212/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Amey212/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Amey212/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Amey212/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amey212/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Amey212/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Amey212/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -121,6 +122,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Amey212/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Amey212/Leetcode/tree/master/0058-length-of-last-word) |
 | [0208-implement-trie-prefix-tree](https://github.com/Amey212/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/Amey212/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amey212/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Amey212/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Amey212/Leetcode/tree/master/0812-rotate-string) |
@@ -166,6 +168,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Amey212/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Amey212/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/Amey212/Leetcode/tree/master/1137-height-checker) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amey212/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
