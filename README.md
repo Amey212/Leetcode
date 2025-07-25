@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/Amey212/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Amey212/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Amey212/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0334-increasing-triplet-subsequence](https://github.com/Amey212/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Amey212/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Amey212/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amey212/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -147,6 +148,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Amey212/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Amey212/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2032-largest-odd-number-in-string](https://github.com/Amey212/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Amey212/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
