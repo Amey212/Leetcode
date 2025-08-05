@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Amey212/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amey212/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Amey212/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Amey212/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amey212/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Amey212/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Amey212/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -36,6 +37,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amey212/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Amey212/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Amey212/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Amey212/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Amey212/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0208-implement-trie-prefix-tree](https://github.com/Amey212/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Amey212/Leetcode/tree/master/0242-valid-anagram) |
@@ -248,5 +250,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Amey212/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1559-cherry-pickup-ii](https://github.com/Amey212/Leetcode/tree/master/1559-cherry-pickup-ii) |
 <!---LeetCode Topics End-->
