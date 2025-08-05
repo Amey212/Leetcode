@@ -16,6 +16,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Amey212/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Amey212/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Amey212/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0792-binary-search](https://github.com/Amey212/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amey212/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1137-height-checker](https://github.com/Amey212/Leetcode/tree/master/1137-height-checker) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amey212/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Amey212/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0792-binary-search](https://github.com/Amey212/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amey212/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Amey212/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Sliding Window
