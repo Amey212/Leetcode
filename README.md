@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Amey212/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amey212/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Amey212/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Amey212/Leetcode/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/Amey212/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amey212/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amey212/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -267,4 +268,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Amey212/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Amey212/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
