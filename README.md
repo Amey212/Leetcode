@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amey212/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Amey212/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Amey212/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Amey212/Leetcode/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Amey212/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Amey212/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Amey212/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -178,6 +179,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Amey212/Leetcode/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/Amey212/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Amey212/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/Amey212/Leetcode/tree/master/1137-height-checker) |
@@ -272,4 +274,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Amey212/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Amey212/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
