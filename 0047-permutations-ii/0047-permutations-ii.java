@@ -1,55 +1,24 @@
 class Solution {
     public List<List<Integer>> permuteUnique(int[] nums) {
-
-        List<List<Integer>> results = new ArrayList<>();
-
-        permute(nums, results, 0);
-
-        return results;
+        List<List<Integer>> result = new ArrayList<>();
+        backtrack(nums, new ArrayList<>(), result, new boolean[nums.length]);
+        return result;
     }
-
-    private void permute(int[] nums, List<List<Integer>> results, int index) {
-
-        if(index == nums.length) {
-
-            List<Integer> permutation = new ArrayList<>();
-
-            for(int num : nums) {
-                permutation.add(num);
-            }
-
-            results.add(permutation);
-
+    public void backtrack(int[] nums, List<Integer> temp, List<List<Integer>> result, boolean[] used){
+        if(temp.size() == nums.length && !result.contains(temp)){
+            result.add(new ArrayList<>(temp));
             return;
         }
 
-        for(int i = index; i < nums.length; i++) {
+        for(int i = 0;i<nums.length;i++){
+            if(used[i]) continue;
 
-            boolean duplicate = false;
+            used[i] = true;
+            temp.add(nums[i]);
 
-            for(int j = index; j < i; j++) {
-
-                if(nums[i] == nums[j]) {
-                    
-                    duplicate = true;
-                    break;
-                }
-            }
-
-            if(duplicate) {
-                continue;
-            }
-            
-            swap(nums, i, index);
-            permute(nums, results, index + 1);
-            swap(nums, i, index);
+            backtrack(nums, temp, result, used);
+            used[i] = false;
+            temp.remove(temp.size()-1);
         }
-    }
-
-    private void swap(int[] nums, int i, int j) {
-
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
     }
 }
