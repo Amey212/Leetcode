@@ -63,6 +63,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Amey212/Leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Amey212/Leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/Amey212/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Amey212/Leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Amey212/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Amey212/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amey212/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Amey212/Leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Amey212/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Amey212/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1013-fibonacci-number](https://github.com/Amey212/Leetcode/tree/master/1013-fibonacci-number) |
@@ -91,6 +93,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Amey212/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Amey212/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
