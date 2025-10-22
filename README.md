@@ -260,6 +260,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amey212/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Amey212/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Amey212/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amey212/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amey212/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Amey212/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amey212/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Amey212/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Amey212/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amey212/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amey212/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Amey212/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -278,6 +280,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amey212/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Amey212/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Amey212/Leetcode/tree/master/0101-symmetric-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amey212/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Amey212/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Amey212/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -301,4 +304,5 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Amey212/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Amey212/Leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
