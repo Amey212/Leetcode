@@ -266,6 +266,7 @@
 | [0257-binary-tree-paths](https://github.com/Amey212/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Amey212/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Amey212/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Amey212/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -287,6 +288,7 @@
 | [0257-binary-tree-paths](https://github.com/Amey212/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Amey212/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Amey212/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Amey212/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -311,4 +313,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Amey212/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Amey212/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
